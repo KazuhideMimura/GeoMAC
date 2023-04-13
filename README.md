@@ -1,7 +1,9 @@
 # GeochemModeAnalysis
 
+<!-- 
 ## Citation
 AAA
+-->
 
 ## Background
 AAA
