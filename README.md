@@ -1,4 +1,4 @@
-# GeochemModeAnalysis
+# GeoMAC (Geochemical Mode Analysis Calculator)
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KazuhideMimura/GeochemModeAnalysis&left_color=gray&right_color=blue) -->
 developed by [K. Mimura](https://github.com/KazuhideMimura) and N. Akizawa.
 
