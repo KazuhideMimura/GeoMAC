@@ -20,7 +20,7 @@ AAA
 ### If you are new to Python
 1. Download all the files
 2. Create a new folder in `/data` folder (any folder name)
-3. place mapping images for multiple elements (any file names)
+3. place **grayscaled** mapping images for multiple elements in a folder created at the previous step (any file names)
 4. Upload them to your google drive
 5. Open and run `modeAnalysis.ipynb` by [Google Colaboratory](https://colab.research.google.com/)
 
@@ -28,7 +28,7 @@ AAA
 You can also use `git clone` and run `modeAnalysis.ipynb` on your local PC
 
 ## Flow
-### 1. load elemental map images and get brightness value
+### 1. load elemental composition maps and get brightness for each pixel
 
 <p align="center">
   <img src="out/001/01_elemental_distribution_map.jpg" width="1200"> 
