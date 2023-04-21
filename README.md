@@ -13,7 +13,7 @@ AAA
 -->
 
 ## Background
-AAA
+Modal composition of rock thin section has been conventionally estimated by point-counting method, using mechanical/electromechanical devices attached to a microscope. However, the point-counting method consumes significant time and needs special skill to identify minerals under the microscope. Even worse, the number of the point-counting device suppliers is getting decreased and some of the devices are no more supported from their original suppliers. Here, we developed a computational modal estimation method from elemental distribution maps of rock thin section. This method can deal with the constituent mineral phases as well as their grain boundaries. This method can be also applied for the rocks if elemental intensities with their coordinates are included in the elemental distribution maps.
 
 ## Preparation
 
