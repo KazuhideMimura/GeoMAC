@@ -35,7 +35,7 @@ You can also use `git clone` and run `modeAnalysis.ipynb` on your local PC
 
 <br>
 
-### 2. Check histograms and scatter diagrams
+### 2. Find clusters from histograms and scatter diagrams
 
 <p align="center">
   <img src="out/001/02_pairplot1.jpg" width="1200"> 
