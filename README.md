@@ -73,6 +73,6 @@ You can also use `git clone` and run `modeAnalysis.ipynb` on your local PC
 
 
 ## Log
-2023.4.21 Opened ver.1
+2023.4.21 Opened version 1
 
-2023.4.7 Created repository (ver. 0)
+2023.4.7 Created repository (version 0)
