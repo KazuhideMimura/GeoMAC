@@ -1,11 +1,11 @@
 # GeochemModeAnalysis
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KazuhideMimura/GeochemModeAnalysis&left_color=gray&right_color=blue) -->
+developed by [K. Mimura](https://github.com/KazuhideMimura) and N. Akizawa.
 
 <p align="center">
   <img src="out/001/06_mode_withMap.jpg" width="1200"> 
 </p>
 
-developped by [K. Mimura](https://github.com/KazuhideMimura) and N. Akizawa.
 
 <!-- 
 ## Citation
