@@ -16,19 +16,58 @@ AAA
 
 ## Preparation
 
-### If you are new to python
+### If you are new to Python
 1. Download all the files
-2. Create a new folder in `/data` folder (any name)
-3. Upload them to your google drive
-4. Open and run `modeAnalysis` by [Google Colaboratory](https://colab.research.google.com/)
+2. Create a new folder in `/data` folder (any folder name)
+3. place mapping images for multiple elements (any file names)
+4. Upload them to your google drive
+5. Open and run `modeAnalysis.ipynb` by [Google Colaboratory](https://colab.research.google.com/)
 
-
+### for those who are familiar with github and Python
+You can also use `git clone` and run `modeAnalysis.ipynb` on your local PC
 
 ## Flow
+### 1. load elemental map images and get brightness value
+
+<p align="center">
+  <img src="out/001/01_elemental_distribution_map.jpg" width="1200"> 
+</p>
+
+<br>
+
+### 2. Check histograms and scatter diagrams
+
+<p align="center">
+  <img src="out/001/02_pairplot1.jpg" width="1200"> 
+</p>
+
+**Tips:** Dots are plotted semi-transparently so that clusters can easily be found.
+
+<br>
+
+### 3. determine threshold for each mineral
+<p align="left">
+  <img src="imagesForGithub/Screenshot_2023-04-21_131510.png" width="600"> 
+</p>
+
+### 4. Check whether minerals are correctly labeled
+<p align="center">
+  <img src="out/001/04_pairplot2.jpg" width="1200"> 
+</p>
+
+<p align="center">
+  <img src="out/001/06_mode_withMap.jpg" width="1200"> 
+</p>
+
+<br>
+
+### 5. calculate areas for each mineral by counting pixels
+<p align="left">
+  <img src="imagesForGithub/Screenshot_2023-04-21_132355.png" width="300"> 
+</p>
 
 
-## Note
-- 画像と比べながら Criteria を細かく調整できることに主眼を置いている
-- Google Colab で動く
+## Log
+2023.4.21 Opened ver.1
 
-## Environment
+2023.4.7 Created repository (ver. 0)
