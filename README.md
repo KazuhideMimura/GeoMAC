@@ -18,7 +18,7 @@ AAA
 ## Preparation
 
 ### If you are new to Python
-1. Download all the files
+1. Download all the files (and unzip)
 <p align="left">
   <img src="imagesForGithub/Screenshot_2023-04-21_135124.png" width="600"> 
 </p>
