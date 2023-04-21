@@ -1,6 +1,6 @@
 # GeoMAC (Geochemical Mode Analysis Calculator)
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KazuhideMimura/GeochemModeAnalysis&left_color=gray&right_color=blue) -->
-developed by [K. Mimura](https://github.com/KazuhideMimura) and N. Akizawa.
+developed by [K. Mimura](https://github.com/KazuhideMimura) and [N. Akizawa](https://sites.google.com/site/akizawanoriwebsite/home).
 
 <p align="center">
   <img src="out/001/06_mode_withMap.jpg" width="1200"> 
