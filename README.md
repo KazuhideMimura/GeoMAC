@@ -1,5 +1,5 @@
 # GeochemModeAnalysis
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=KazuhideMimura/GeochemModeAnalysis&left_color=gray&right_color=blue)
+<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KazuhideMimura/GeochemModeAnalysis&left_color=gray&right_color=blue) -->
 
 <p align="center">
   <img src="out/001/06_mode_withMap.jpg" width="1200"> 
