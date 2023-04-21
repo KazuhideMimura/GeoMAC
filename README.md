@@ -1,5 +1,11 @@
 # GeochemModeAnalysis
 
+<p align="center">
+  <img src="out/001/06_mode_withMap.jpg" width="1200"> 
+</p>
+
+developped by [K. Mimura](https://github.com/KazuhideMimura) and N. Akizawa.
+
 <!-- 
 ## Citation
 AAA
@@ -9,7 +15,14 @@ AAA
 AAA
 
 ## Preparation
-- data/sample 内に各元素濃度の白黒マップを置く
+
+### If you are new to python
+1. Download all the files
+2. Create a new folder in `/data` folder (any name)
+3. Upload them to your google drive
+4. Open and run `modeAnalysis` by [Google Colaboratory](https://colab.research.google.com/)
+
+
 
 ## Flow
 
