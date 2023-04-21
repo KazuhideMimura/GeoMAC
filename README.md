@@ -19,6 +19,10 @@ AAA
 
 ### If you are new to Python
 1. Download all the files
+<p align="left">
+  <img src="imagesForGithub/Screenshot_2023-04-21_135124.png" width="600"> 
+</p>
+
 2. Create a new folder in `/data` folder (any folder name)
 3. place **grayscaled** mapping images for multiple elements in a folder created at the previous step (any file names)
 4. Upload them to your google drive
