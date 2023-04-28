@@ -25,8 +25,8 @@ Modal composition of rock thin section has been conventionally estimated by poin
   <img src="imagesForGithub/Screenshot_2023-04-21_135124.png" width="600"> 
 </p>
 
-1. Upload them to your google drive
-2. Open and run `modeAnalysis.ipynb` by [Google Colaboratory](https://colab.research.google.com/)
+2. Upload them to your google drive
+3. Open and run `modeAnalysis.ipynb` by [Google Colaboratory](https://colab.research.google.com/)
 
 **run with original data:**
 
