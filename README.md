@@ -18,15 +18,20 @@ Modal composition of rock thin section has been conventionally estimated by poin
 ## Preparation
 
 ### If you are new to Python
-1. Download all the files (and unzip)
+**tutorial:**
+ 
+1. Download all the files and unpack them
 <p align="left">
   <img src="imagesForGithub/Screenshot_2023-04-21_135124.png" width="600"> 
 </p>
 
-2. Create a new folder in `/data` directory (any folder name)
-3. place **grayscaled** mapping images for multiple elements in a folder created at the previous step (any file names)
-4. Upload them to your google drive
-5. Open and run `modeAnalysis.ipynb` by [Google Colaboratory](https://colab.research.google.com/)
+1. Upload them to your google drive
+2. Open and run `modeAnalysis.ipynb` by [Google Colaboratory](https://colab.research.google.com/)
+
+**run with original data:**
+
+4. Create a new folder in `/data` directory of the base folder uploaded on google drive (any folder name)
+5. upload **grayscaled** mapping images for multiple elements in a folder created at the previous step (any file names)
 
 ### for those who are familiar with github and Python
 You can also use `git clone` and run `modeAnalysis.ipynb` on your local PC
