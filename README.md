@@ -1,16 +1,15 @@
 # GeoMAC (Geochemical Mode Analysis Calculator)
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KazuhideMimura/GeochemModeAnalysis&left_color=gray&right_color=blue) -->
+<a href="https://doi.org/10.5281/zenodo.14676066"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14676066.svg" alt="DOI"></a>
+
 developed by [K. Mimura](https://github.com/KazuhideMimura) and [N. Akizawa](https://sites.google.com/site/akizawanoriwebsite/home).
 
 <p align="center">
   <img src="out/001/06_mode_withMap.jpg" width="1200"> 
 </p>
 
-
-<!-- 
-## Citation
-AAA
--->
+## Citation of this program
+Mimura, K., & Akizawa, N. (2025). GeoMAC: Geochemical Mode Analysis Calculator (v1.1). Zenodo. https://doi.org/10.5281/zenodo.14676066
 
 ## Background
 Modal composition of rock thin section has been conventionally estimated by point-counting method, using mechanical/electromechanical devices attached to a microscope. However, the point-counting method consumes significant time and needs special skill to identify minerals under the microscope. Even worse, the number of the point-counting device suppliers is getting decreased and some of the devices are no more supported from their original suppliers. Here, we developed a computational modal estimation method from elemental distribution maps of rock thin section. This method can deal with the constituent mineral phases as well as their grain boundaries. This method can be also applied for the rocks if elemental intensities with their coordinates are included in the elemental distribution maps.
@@ -78,6 +77,8 @@ You can also use `git clone` and run `modeAnalysis.ipynb` on your local PC
 
 
 ## Log
+2025.1.17 Added DOI using zenodo.
+
 2023.4.29 Version 1.1: loading csv data is supported
 
 2023.4.21 Opened version 1
