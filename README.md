@@ -2,7 +2,7 @@
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KazuhideMimura/GeochemModeAnalysis&left_color=gray&right_color=blue) -->
 <a href="https://doi.org/10.5281/zenodo.14676066"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14676066.svg" alt="DOI"></a>
 
-developed by [K. Mimura](https://github.com/KazuhideMimura) and [N. Akizawa](https://sites.google.com/site/akizawanoriwebsite/home).
+<!-- developed by [K. Mimura](https://github.com/KazuhideMimura) and [N. Akizawa](https://sites.google.com/site/akizawanoriwebsite/home). -->
 
 <p align="center">
   <img src="out/001/06_mode_withMap.jpg" width="1200"> 
